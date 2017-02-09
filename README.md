@@ -1,1 +1,1 @@
-# cron_job_scripts
+# cronscript : Remove a web app from plesk.
